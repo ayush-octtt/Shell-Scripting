@@ -17,7 +17,7 @@ shell-scripting-syntax/
 ├── functions/           # Shell function definitions and usage
 ├── file-operations/     # Reading, writing, and manipulating files
 └── examples/            # Sample scripts for practice
-
+```
 ## ✨ What's Inside?
 
 - ✅ Shell Syntax: Clean examples of shell scripting language syntax.
